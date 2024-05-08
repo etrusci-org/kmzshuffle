@@ -1,6 +1,6 @@
 # kmzshuffle
 
-Shuffle randomize the order of placemark's in a folder from [Google Earth](https://earth.google.com) kmz files.
+Shuffle the order of placemark's in a folder from [Google Earth](https://earth.google.com) kmz files.
 
 The original file won't be touched. E.g. if your input file is foo.kmz, the output will be named foo_shuffled.kmz.
 
